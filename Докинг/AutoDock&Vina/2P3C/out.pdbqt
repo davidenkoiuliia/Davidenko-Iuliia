@@ -1,0 +1,1566 @@
+MODEL 1
+REMARK VINA RESULT:     0.000      0.000      0.000
+REMARK INTER + INTRA:         -13.429
+REMARK INTER:                   0.000
+REMARK INTRA:                 -13.429
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201       2.963  19.703  35.433  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201       2.619  20.679  36.545  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201       1.197  20.938  36.562  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201       0.668  21.979  35.936  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201       1.313  22.754  35.261  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201       0.583  20.301  37.071  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -0.795  22.188  36.152  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -1.477  21.242  35.277  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -2.048  21.582  34.134  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201      -2.066  22.726  33.725  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -1.515  20.264  35.563  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201      -2.706  20.470  33.367  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201      -3.244  21.005  32.044  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201      -3.771  19.853  34.139  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201      -3.957  18.530  34.181  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201      -3.220  17.726  33.627  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201      -4.401  20.453  34.670  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201      -5.115  18.032  34.910  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201      -5.035  16.845  35.696  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201      -5.144  17.115  37.181  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201      -4.871  18.406  37.661  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201      -4.981  18.689  39.018  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201      -5.358  17.680  39.909  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201      -5.631  16.393  39.432  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201      -5.527  16.114  38.062  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201      -1.202  21.998  37.612  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201      -1.207  23.282  38.446  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201      -2.553  21.301  37.735  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201       3.039  20.122  37.902  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201       2.426  20.978  38.977  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201       1.480  20.427  39.845  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201       0.916  21.235  40.830  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201       1.294  22.574  40.940  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201       2.244  23.111  40.079  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201       2.817  22.310  39.096  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201       4.156  20.172  34.845  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201       4.334  19.602  34.106  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201       3.255  18.285  35.892  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201       2.049  17.381  36.060  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201       2.643  16.116  36.673  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201       2.213  15.856  38.092  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201       2.275  16.861  39.046  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201       1.874  16.615  40.353  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201       1.413  15.352  40.681  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201       1.338  14.350  39.714  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201       1.737  14.605  38.415  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201       1.494  17.152  34.732  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201       0.495  17.825  34.162  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201      -0.192  18.662  34.732  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201       1.912  16.400  34.184  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201       0.242  17.443  32.733  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201      -0.876  16.501  32.694  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201      -0.762  15.175  32.582  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201       0.269  14.609  32.260  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -1.818  16.887  32.759  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -2.024  14.382  32.799  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -3.104  14.628  31.748  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -2.567  14.679  34.110  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -2.314  13.905  35.159  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -1.669  12.870  35.093  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -3.158  15.502  34.229  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -2.874  14.329  36.430  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201      -2.110  14.218  37.631  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201      -1.839  15.574  38.246  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201      -1.390  16.612  37.427  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201      -1.147  17.876  37.966  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201      -1.352  18.109  39.323  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -1.809  17.071  40.138  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -2.060  15.803  39.605  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201       0.052  18.673  31.825  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201       1.401  19.210  31.369  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201      -0.816  18.386  30.591  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201       4.091  17.696  34.900  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201       4.074  16.758  35.049  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     0.006      1.820      2.681
+REMARK INTER + INTRA:         -13.413
+REMARK INTER:                   0.000
+REMARK INTRA:                 -13.413
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201       3.412  19.653  33.949  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201       2.929  20.395  35.183  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201       1.495  20.569  35.135  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201       0.938  21.634  34.576  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201       1.570  22.507  34.019  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201       0.895  19.852  35.542  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -0.545  21.736  34.717  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -1.115  20.920  33.652  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -1.617  21.420  32.535  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201      -1.660  22.614  32.313  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -1.127  19.908  33.775  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201      -2.163  20.424  31.552  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201      -2.675  21.151  30.313  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201      -3.217  19.619  32.144  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201      -3.300  18.297  31.966  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201      -2.472  17.645  31.346  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201      -3.922  20.081  32.718  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201      -4.455  17.609  32.528  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201      -4.335  16.300  33.077  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201      -4.651  16.251  34.557  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201      -4.485  17.412  35.328  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201      -4.786  17.404  36.686  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201      -5.248  16.229  37.286  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201      -5.415  15.071  36.519  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201      -5.119  15.086  35.149  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201      -1.033  21.285  36.093  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201      -1.584  22.408  36.975  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201      -2.061  20.163  35.987  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201       3.294  19.630  36.452  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201       2.301  19.987  37.525  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201       2.335  21.259  38.102  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201       1.413  21.572  39.099  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201       0.476  20.624  39.512  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201       0.443  19.364  38.924  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201       1.355  19.044  37.923  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201       4.595  20.299  33.533  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201       4.852  20.874  34.245  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201       3.791  18.202  34.182  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201       2.666  17.193  34.047  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201       3.335  15.871  34.410  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201       2.736  15.185  35.609  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201       2.316  13.866  35.533  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201       1.767  13.237  36.644  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201       1.650  13.953  37.823  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201       2.089  15.274  37.898  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201       2.636  15.890  36.788  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201       2.218  17.230  32.660  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201       1.183  17.917  32.179  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201       0.371  18.523  32.866  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201       2.751  16.675  31.991  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201       1.057  17.860  30.684  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201       0.028  16.880  30.340  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201       0.259  15.620  29.962  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201       1.356  15.205  29.628  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -0.945  17.183  30.394  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -0.946  14.721  29.884  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -1.989  15.163  28.860  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -1.575  14.634  31.188  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -1.710  13.474  31.819  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -1.378  12.401  31.337  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -1.921  15.486  31.631  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -2.312  13.518  33.140  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201      -1.536  13.221  34.300  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201      -1.415  14.423  35.212  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201      -1.802  14.303  36.548  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201      -1.687  15.392  37.413  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201      -1.185  16.604  36.948  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -0.791  16.720  35.613  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -0.899  15.632  34.741  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201       0.825  19.251  30.065  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201       2.078  20.106  30.193  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201       0.407  19.194  28.588  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201       4.775  17.872  33.205  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201       4.375  17.246  32.614  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:     0.029      3.004      7.974
+REMARK INTER + INTRA:         -13.357
+REMARK INTER:                   0.000
+REMARK INTRA:                 -13.357
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201      -5.825  18.832  33.478  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201      -5.475  18.504  34.919  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201      -4.151  18.989  35.237  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201      -3.287  18.261  35.928  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201      -3.509  17.126  36.296  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201      -3.874  19.918  34.919  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -2.009  18.944  36.289  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -1.924  20.127  35.441  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -0.812  20.523  34.845  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201       0.244  19.936  34.973  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -2.769  20.680  35.300  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201      -0.915  21.769  34.011  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201      -1.564  22.882  34.827  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201      -1.664  21.526  32.791  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201      -1.119  21.643  31.576  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201       0.061  21.903  31.386  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201      -2.645  21.257  32.863  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201      -1.992  21.471  30.423  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201      -1.459  21.389  29.103  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201      -1.675  20.033  28.465  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201      -1.590  18.882  29.264  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201      -1.803  17.625  28.710  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201      -2.095  17.507  27.348  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201      -2.181  18.653  26.550  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201      -1.974  19.920  27.114  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201      -1.940  19.308  37.771  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201      -0.527  19.328  38.359  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201      -2.635  20.636  38.059  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201      -6.480  19.139  35.877  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201      -7.399  18.060  36.384  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201      -7.006  16.722  36.303  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201      -7.872  15.735  36.770  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201      -9.112  16.085  37.305  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201      -9.490  17.421  37.392  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201      -8.630  18.414  36.934  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201      -4.892  19.801  33.052  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201      -4.054  19.548  33.423  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201      -5.693  17.672  32.507  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201      -4.614  17.813  31.449  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201      -5.296  17.301  30.184  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201      -5.436  18.334  29.097  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201      -5.251  19.680  29.371  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201      -5.378  20.627  28.363  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201      -5.692  20.199  27.085  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201      -5.862  18.843  26.811  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201      -5.731  17.908  27.821  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201      -3.497  16.972  31.860  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201      -2.399  17.370  32.503  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201      -2.113  18.539  32.731  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201      -3.560  15.980  31.633  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201      -1.490  16.246  32.909  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201      -2.311  15.131  33.379  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201      -2.209  14.551  34.578  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201      -1.266  14.720  35.333  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -3.019  14.768  32.741  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -3.303  13.582  34.940  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -4.167  13.147  33.758  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -4.156  14.168  35.956  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -4.090  13.783  37.225  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -3.365  12.882  37.620  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -4.823  14.892  35.689  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -4.960  14.474  38.160  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201      -4.409  15.278  39.204  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201      -5.327  16.425  39.566  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201      -4.926  17.731  39.278  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201      -5.761  18.806  39.587  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201      -6.998  18.581  40.185  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -7.400  17.273  40.465  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -6.572  16.190  40.153  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201      -0.501  15.864  31.792  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201       0.899  15.686  32.361  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201      -0.902  14.587  31.039  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201      -5.378  16.519  33.283  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201      -4.952  15.904  32.699  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:     0.029      3.700      9.013
+REMARK INTER + INTRA:         -13.355
+REMARK INTER:                   0.000
+REMARK INTRA:                 -13.355
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201      -5.642  17.436  32.556  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201      -5.566  16.805  33.935  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201      -4.188  16.574  34.306  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201      -3.796  15.442  34.871  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201      -4.535  14.500  35.068  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201      -3.498  17.304  34.127  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -2.371  15.401  35.314  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -1.698  16.499  34.632  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -0.496  16.398  34.088  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201       0.157  15.375  34.130  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -2.180  17.396  34.571  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201       0.038  17.638  33.429  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201      -0.056  18.815  34.394  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201      -0.673  17.929  32.196  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201      -0.070  17.943  31.003  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201       1.108  17.658  30.837  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201      -1.671  18.131  32.243  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201      -0.863  18.344  29.849  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201      -0.375  18.160  28.522  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201      -1.154  17.117  27.749  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201      -1.339  17.290  26.368  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201      -2.033  16.339  25.628  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201      -2.556  15.211  26.265  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201      -2.372  15.036  27.641  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201      -1.664  15.993  28.382  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201      -2.228  15.509  36.832  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201      -1.018  14.774  37.413  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201      -2.218  16.963  37.295  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201      -6.217  17.707  34.979  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201      -7.560  17.129  35.336  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201      -8.530  17.944  35.923  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201      -9.766  17.392  36.255  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201     -10.022  16.043  36.004  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201      -9.054  15.241  35.409  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201      -7.819  15.786  35.069  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201      -4.344  17.899  32.257  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201      -4.306  18.003  31.313  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201      -6.012  16.482  31.434  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201      -4.931  16.221  30.403  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201      -5.691  16.258  29.081  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201      -5.247  17.349  28.143  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201      -4.498  18.420  28.606  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201      -4.089  19.422  27.734  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201      -4.444  19.327  26.400  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201      -5.184  18.240  25.936  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201      -5.584  17.248  26.811  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201      -4.371  14.906  30.688  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201      -3.257  14.649  31.372  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201      -2.465  15.501  31.756  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201      -4.884  14.101  30.329  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201      -3.015  13.187  31.616  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201      -4.291  12.554  31.946  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201      -4.529  11.826  33.041  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201      -3.652  11.403  33.776  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -5.060  12.678  31.289  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -5.969  11.467  33.297  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -6.882  11.651  32.087  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -6.480  12.261  34.397  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -6.663  11.739  35.605  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -6.478  10.559  35.864  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -6.705  13.243  34.240  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -7.136  12.642  36.639  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201      -6.283  13.009  37.724  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201      -6.621  14.386  38.255  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201      -5.674  15.405  38.147  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201      -5.966  16.688  38.615  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201      -7.205  16.956  39.190  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -8.154  15.936  39.290  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -7.870  14.650  38.819  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201      -2.271  12.517  30.446  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201      -1.171  11.605  30.969  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201      -3.196  11.708  29.524  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201      -6.326  15.232  32.043  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201      -6.205  14.565  31.379  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:     0.036      4.099      7.630
+REMARK INTER + INTRA:         -13.340
+REMARK INTER:                   0.000
+REMARK INTRA:                 -13.340
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201      -0.284  16.406  31.012  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201      -0.662  17.514  31.979  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201      -1.927  18.102  31.599  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201      -2.016  19.353  31.170  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201      -1.055  20.076  31.010  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201      -2.774  17.539  31.663  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -3.401  19.860  30.939  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -4.103  18.813  30.206  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -4.234  18.802  28.890  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201      -3.790  19.683  28.181  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -4.516  18.047  30.738  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201      -4.993  17.642  28.311  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201      -5.586  18.037  26.963  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201      -6.035  17.188  29.215  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201      -6.057  15.952  29.725  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201      -5.181  15.122  29.525  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201      -6.778  17.837  29.470  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201      -7.204  15.578  30.542  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201      -7.426  14.221  30.920  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201      -7.523  14.037  32.419  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201      -6.837  12.970  33.020  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201      -6.892  12.786  34.398  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201      -7.641  13.665  35.185  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201      -8.324  14.729  34.588  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201      -8.260  14.916  33.199  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201      -4.119  20.212  32.242  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201      -3.420  21.281  33.086  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201      -5.568  20.618  31.995  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201      -0.773  16.975  33.402  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201      -0.953  18.139  34.339  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201      -2.072  18.188  35.173  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201      -2.229  19.276  36.030  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201      -1.279  20.299  36.045  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201      -0.163  20.236  35.218  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201       0.005  19.151  34.365  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201      -0.444  15.193  31.713  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201      -0.470  15.418  32.637  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201      -1.172  16.296  29.785  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201      -0.562  15.596  28.586  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201      -0.016  16.748  27.747  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201      -0.637  16.865  26.381  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201      -0.025  16.297  25.274  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201      -0.605  16.407  24.016  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201      -1.801  17.092  23.893  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201      -2.420  17.647  25.012  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201      -1.836  17.531  26.259  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201      -1.637  14.876  27.914  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201      -1.541  13.696  27.302  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201      -0.490  13.099  27.105  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201      -2.555  15.320  27.912  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201      -2.855  13.151  26.823  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201      -3.646  12.754  27.987  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201      -3.513  11.604  28.654  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201      -2.885  10.648  28.233  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -4.357  13.408  28.316  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -4.264  11.504  29.955  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -5.778  11.379  29.794  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -3.973  12.663  30.776  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -3.074  12.614  31.753  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -2.478  11.596  32.072  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -4.470  13.536  30.600  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -2.833  13.850  32.477  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201      -3.167  13.954  33.862  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201      -4.044  15.157  34.133  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201      -4.449  15.957  33.063  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201      -5.271  17.063  33.284  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201      -5.692  17.374  34.575  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -5.292  16.567  35.643  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -4.473  15.454  35.428  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201      -3.581  14.126  25.878  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201      -3.341  13.737  24.426  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201      -5.094  14.201  26.132  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201      -2.321  15.547  30.174  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201      -3.079  16.029  29.867  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:     0.040      4.100      6.357
+REMARK INTER + INTRA:         -13.328
+REMARK INTER:                   0.000
+REMARK INTRA:                 -13.328
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201       0.454  18.987  31.251  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201      -0.209  19.796  32.352  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201      -1.511  20.255  31.924  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201      -1.708  21.491  31.487  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201      -0.819  22.306  31.358  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201      -2.300  19.610  31.958  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -3.127  21.856  31.202  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -3.520  21.091  30.025  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -3.685  21.624  28.826  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201      -3.538  22.811  28.611  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -3.676  20.089  30.133  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201      -4.093  20.679  27.733  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201      -3.992  21.379  26.382  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201      -5.438  20.174  27.946  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201      -5.759  18.886  27.780  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201      -4.946  18.018  27.494  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201      -6.167  20.826  28.234  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201      -7.159  18.513  27.927  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201      -7.537  17.357  28.671  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201      -8.021  17.688  30.067  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201      -8.793  16.745  30.762  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201      -9.236  17.012  32.053  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201      -8.916  18.231  32.657  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201      -8.146  19.173  31.966  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201      -7.695  18.896  30.667  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201      -4.050  21.578  32.388  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201      -3.805  22.466  33.610  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201      -5.520  21.649  31.987  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201      -0.369  18.958  33.617  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201      -0.975  19.825  34.688  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201      -0.373  21.043  35.014  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201      -0.941  21.831  36.013  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201      -2.092  21.402  36.675  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201      -2.691  20.194  36.336  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201      -2.134  19.403  35.336  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201       1.803  19.397  31.211  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201       1.915  20.021  31.919  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201       0.482  17.487  31.487  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201      -0.810  16.746  31.196  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201      -0.577  15.377  31.826  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201      -1.539  15.034  32.932  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201      -1.725  15.896  34.002  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201      -2.617  15.575  35.018  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201      -3.314  14.382  34.938  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201      -3.135  13.526  33.852  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201      -2.246  13.855  32.845  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201      -0.950  16.678  29.747  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201      -1.603  17.542  28.971  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201      -2.295  18.463  29.386  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201      -0.504  15.889  29.279  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201      -1.453  17.274  27.501  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201      -2.607  16.498  27.050  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201      -2.668  15.164  27.006  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201      -1.693  14.438  27.109  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -3.430  17.016  26.745  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -4.026  14.573  26.733  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -4.641  15.009  25.405  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -4.934  14.921  27.809  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -5.138  14.107  28.838  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -4.635  12.997  28.929  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -5.427  15.813  27.774  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -6.033  14.584  29.878  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201      -5.731  14.354  31.254  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201      -5.435  15.647  31.982  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201      -4.605  16.592  31.376  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201      -4.329  17.799  32.020  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201      -4.881  18.068  33.269  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -5.718  17.124  33.869  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -6.004  15.914  33.229  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201      -1.216  18.565  26.694  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201       0.229  19.021  26.834  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201      -1.551  18.416  25.203  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201       1.480  16.954  30.621  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201       1.520  16.020  30.790  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:     0.123      3.455      9.073
+REMARK INTER + INTRA:         -13.118
+REMARK INTER:                   0.000
+REMARK INTRA:                 -13.118
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201      -4.410  14.686  38.249  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201      -3.223  15.308  37.534  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201      -2.232  15.743  38.492  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201      -1.888  17.017  38.612  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201      -2.407  17.914  37.982  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201      -1.785  15.050  39.092  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -0.761  17.296  39.551  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -0.267  15.999  39.996  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -0.076  15.683  41.265  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201      -0.282  16.464  42.173  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -0.057  15.295  39.287  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201       0.441  14.298  41.532  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201       1.467  14.339  42.660  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201       1.020  13.710  40.336  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201       0.284  13.082  39.414  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201      -0.935  12.998  39.463  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201       2.028  13.780  40.195  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201       0.986  12.448  38.306  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201       0.283  12.014  37.143  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201       0.595  12.851  35.921  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201       0.238  12.366  34.653  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201       0.494  13.121  33.514  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201       1.116  14.366  33.633  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201       1.471  14.853  34.896  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201       1.204  14.092  36.043  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201       0.345  18.128  38.905  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201       1.216  18.910  39.892  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201       1.231  17.280  37.997  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201      -2.582  14.305  36.578  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201      -2.451  14.955  35.227  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201      -2.919  14.289  34.091  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201      -2.783  14.901  32.846  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201      -2.185  16.158  32.743  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201      -1.732  16.818  33.881  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201      -1.869  16.218  35.128  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201      -3.905  14.115  39.436  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201      -4.409  13.324  39.590  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201      -5.483  15.668  38.683  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201      -5.803  15.688  40.165  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201      -7.316  15.889  40.194  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201      -7.750  17.236  40.707  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201      -7.872  17.470  42.068  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201      -8.271  18.716  42.534  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201      -8.541  19.714  41.615  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201      -8.402  19.479  40.248  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201      -8.003  18.236  39.794  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201      -5.079  16.810  40.748  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201      -4.013  16.740  41.545  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201      -3.561  15.701  42.009  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201      -5.423  17.744  40.524  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201      -3.409  18.074  41.872  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201      -4.057  19.093  41.047  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201      -3.422  20.051  40.367  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201      -2.249  20.339  40.539  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -5.075  19.070  40.987  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -4.262  20.844  39.401  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -5.392  21.633  40.059  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -4.827  19.956  38.404  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -4.800  20.256  37.110  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -4.362  21.308  36.671  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -5.256  19.080  38.703  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -5.355  19.268  36.202  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201      -4.641  18.883  35.027  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201      -5.300  17.710  34.334  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201      -5.433  17.730  32.945  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201      -6.023  16.654  32.280  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201      -6.481  15.554  33.000  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -6.340  15.533  34.389  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -5.745  16.605  35.062  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201      -3.448  18.377  43.382  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201      -2.172  19.084  43.815  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201      -4.657  19.229  43.797  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201      -5.016  16.969  38.334  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201      -5.684  17.584  38.610  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:     0.143      4.589      9.374
+REMARK INTER + INTRA:         -13.070
+REMARK INTER:                   0.000
+REMARK INTRA:                 -13.070
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201      -4.682  13.611  39.217  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201      -3.882  14.033  40.436  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201      -4.684  14.875  41.295  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201      -4.262  16.066  41.698  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201      -3.215  16.562  41.340  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201      -5.599  14.544  41.599  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -5.141  16.762  42.683  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -5.854  15.717  43.407  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -7.161  15.726  43.609  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201      -7.878  16.625  43.217  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -5.315  14.935  43.779  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201      -7.720  14.563  44.379  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201      -8.177  15.031  45.757  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201      -6.746  13.493  44.500  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201      -6.432  12.686  43.481  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201      -6.886  12.814  42.353  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201      -6.284  13.350  45.398  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201      -5.514  11.586  43.746  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201      -4.807  11.501  44.981  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201      -3.364  11.944  44.864  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201      -2.368  10.977  44.658  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201      -1.037  11.355  44.527  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201      -0.689  12.706  44.610  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201      -1.679  13.672  44.815  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201      -3.022  13.287  44.938  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201      -4.354  17.666  43.631  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201      -5.109  18.912  44.100  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201      -3.831  16.896  44.840  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201      -3.420  12.813  41.228  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201      -1.924  12.706  41.105  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201      -1.335  11.455  40.907  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201       0.053  11.371  40.802  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201       0.835  12.523  40.898  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201       0.238  13.766  41.085  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201      -1.146  13.860  41.184  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201      -6.033  13.567  39.621  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201      -6.222  14.411  40.017  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201      -4.629  14.579  38.048  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201      -5.958  15.168  37.615  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201      -5.889  15.106  36.092  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201      -5.816  16.452  35.422  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201      -4.602  17.105  35.273  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201      -4.542  18.346  34.651  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201      -5.715  18.913  34.184  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201      -6.931  18.245  34.323  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201      -6.980  17.010  34.941  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201      -6.008  16.536  38.117  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201      -6.636  16.956  39.215  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201      -7.377  16.262  39.900  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201      -5.513  17.242  37.573  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201      -6.389  18.400  39.542  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201      -5.069  18.773  39.034  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201      -4.130  19.418  39.731  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201      -4.343  19.983  40.790  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -4.848  18.520  38.071  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -2.767  19.492  39.094  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -2.734  20.268  37.779  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -2.265  18.152  38.862  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -1.007  17.824  39.133  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -0.174  18.623  39.534  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -2.893  17.444  38.481  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -0.631  16.440  38.904  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201       0.102  16.074  37.735  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201       0.106  14.575  37.527  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201       1.326  13.913  37.385  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201       1.358  12.529  37.208  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201       0.172  11.801  37.173  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -1.048  12.465  37.324  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -1.088  13.851  37.507  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201      -7.527  19.312  39.048  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201      -7.797  20.419  40.057  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201      -7.245  19.944  37.676  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201      -3.797  15.664  38.451  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201      -2.903  15.409  38.258  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:     0.189      3.852      7.363
+REMARK INTER + INTRA:         -12.953
+REMARK INTER:                   0.000
+REMARK INTRA:                 -12.953
+REMARK UNBOUND:               -13.429
+REMARK  27 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA@A_1  and  C@A_3 
+REMARK    2  A    between atoms: CA@A_1  and  O9@A_28 
+REMARK    3  A    between atoms: CA5@A_2  and  C50@A_41 
+REMARK    4  A    between atoms: CA5@A_2  and  O59@A_62 
+REMARK    5  A    between atoms: C1@A_8  and  N1@A_9 
+REMARK    6  A    between atoms: C1@A_8  and  C3@A_17 
+REMARK    7  A    between atoms: C1@A_8  and  C2@A_13 
+REMARK       I    between atoms: N1@A_9  and  C11@A_30 
+REMARK    8  A    between atoms: O1@A_11  and  C2@A_13 
+REMARK    9  A    between atoms: C2@A_13  and  C52@A_47 
+REMARK   10  A    between atoms: N2@A_14  and  C10@A_29 
+REMARK       I    between atoms: N2@A_14  and  C19@A_38 
+REMARK   11  A    between atoms: C3@A_17  and  C4@A_18 
+REMARK   12  A    between atoms: N4@A_19  and  C18@A_37 
+REMARK       I    between atoms: N4@A_19  and  C31@A_40 
+REMARK   13  A    between atoms: O9@A_28  and  C31@A_40 
+REMARK   14  A    between atoms: C10@A_29  and  C11@A_30 
+REMARK   15  A    between atoms: C10@A_29  and  C12@A_31 
+REMARK   16  A    between atoms: C18@A_37  and  C19@A_38 
+REMARK   17  A    between atoms: C51@A_42  and  C52@A_47 
+REMARK   18  A    between atoms: C51@A_42  and  C53@A_51 
+REMARK   19  A    between atoms: C51@A_42  and  N51@A_43 
+REMARK       I    between atoms: N51@A_43  and  C61@A_64 
+REMARK   20  A    between atoms: O51@A_45  and  C52@A_47 
+REMARK   21  A    between atoms: N52@A_48  and  C60@A_63 
+REMARK       I    between atoms: N52@A_48  and  C69@A_72 
+REMARK   22  A    between atoms: C53@A_51  and  C54@A_52 
+REMARK   23  A    between atoms: N54@A_53  and  C68@A_71 
+REMARK       I    between atoms: N54@A_53  and  C81@A_74 
+REMARK   24  A    between atoms: O59@A_62  and  C81@A_74 
+REMARK   25  A    between atoms: C60@A_63  and  C61@A_64 
+REMARK   26  A    between atoms: C60@A_63  and  C62@A_65 
+REMARK   27  A    between atoms: C68@A_71  and  C69@A_72 
+ROOT
+HETATM    1  C2 A3TL A 201       1.113  16.320  31.020  0.50 23.53     0.171 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C1 A3TL A 201       0.692  17.010  32.305  0.50 24.03     0.120 C 
+BRANCH   2   3
+HETATM    3  N1 A3TL A 201      -0.568  17.694  32.119  0.50 22.15    -0.352 N 
+HETATM    4  C11A3TL A 201      -0.647  19.016  32.083  0.50 20.71     0.241 C 
+HETATM    5  O2 A3TL A 201       0.319  19.748  32.145  0.50 20.06    -0.271 OA
+ATOM      6  H1 A3TL A 201      -1.419  17.143  32.011  1.00  0.00     0.163 HD
+BRANCH   4   7
+HETATM    7  C10A3TL A 201      -2.029  19.579  32.013  0.50 21.90     0.180 C 
+BRANCH   7   8
+HETATM    8  N2 A3TL A 201      -2.703  18.877  30.928  0.50 22.74    -0.346 N 
+HETATM    9  C19A3TL A 201      -2.955  19.419  29.749  0.50 20.65     0.240 C 
+HETATM   10  O4 A3TL A 201      -2.656  20.566  29.479  0.50 20.58    -0.271 OA
+ATOM     11  H2 A3TL A 201      -2.997  17.913  31.088  1.00  0.00     0.163 HD
+BRANCH   9  12
+HETATM   12  C18A3TL A 201      -3.661  18.543  28.754  0.50 21.31     0.174 C 
+HETATM   13  C20A3TL A 201      -4.146  19.385  27.579  0.50 21.62     0.042 C 
+BRANCH  12  14
+HETATM   14  N4 A3TL A 201      -4.771  17.835  29.368  0.50 20.15    -0.324 N 
+HETATM   15  C31A3TL A 201      -4.698  16.547  29.719  0.50 21.29     0.361 C 
+HETATM   16  O8 A3TL A 201      -3.684  15.873  29.610  0.50 21.95    -0.238 OA
+ATOM     17  H4 A3TL A 201      -5.640  18.340  29.538  1.00  0.00     0.165 HD
+BRANCH  15  18
+HETATM   18  O9 A3TL A 201      -5.905  15.917  30.236  0.50 21.63    -0.299 OA
+BRANCH  18  19
+HETATM   19  CA A3TL A 201      -6.186  14.544  29.977  0.50 21.81     0.219 C 
+BRANCH  19  20
+HETATM   20  C  A3TL A 201      -6.117  13.684  31.222  0.50 21.79    -0.034 A 
+HETATM   21  C13A3TL A 201      -6.879  14.047  32.344  0.50 21.75     0.009 A 
+HETATM   22  C14A3TL A 201      -6.852  13.266  33.494  0.50 21.99     0.001 A 
+HETATM   23  C15A3TL A 201      -6.054  12.119  33.535  0.50 22.18     0.000 A 
+HETATM   24  C16A3TL A 201      -5.294  11.756  32.418  0.50 21.95     0.001 A 
+HETATM   25  C17A3TL A 201      -5.331  12.541  31.256  0.50 21.80     0.009 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+ENDBRANCH  12  14
+ENDBRANCH   9  12
+ENDBRANCH   7   8
+BRANCH   7  26
+HETATM   26  C12A3TL A 201      -2.785  19.433  33.333  0.50 22.73     0.009 C 
+HETATM   27  CG1A3TL A 201      -2.082  20.054  34.543  0.50 21.23     0.012 C 
+HETATM   28  CG2A3TL A 201      -4.207  19.974  33.231  0.50 23.06     0.012 C 
+ENDBRANCH   7  26
+ENDBRANCH   4   7
+ENDBRANCH   2   3
+BRANCH   2  29
+HETATM   29  C3 A3TL A 201       0.545  15.999  33.439  0.50 23.17     0.066 C 
+BRANCH  29  30
+HETATM   30  C4 A3TL A 201       0.340  16.753  34.724  0.50 23.99    -0.056 A 
+HETATM   31  C5 A3TL A 201      -0.770  16.467  35.524  0.50 23.73     0.007 A 
+HETATM   32  C6 A3TL A 201      -0.951  17.179  36.708  0.50 25.44     0.001 A 
+HETATM   33  C7 A3TL A 201      -0.034  18.164  37.081  0.50 23.69     0.000 A 
+HETATM   34  C8 A3TL A 201       1.073  18.434  36.284  0.50 24.33     0.001 A 
+HETATM   35  C9 A3TL A 201       1.265  17.724  35.104  0.50 23.60     0.007 A 
+ENDBRANCH  29  30
+ENDBRANCH   2  29
+ENDBRANCH   1   2
+BRANCH   1  36
+HETATM   36  O1 A3TL A 201       0.837  14.948  31.195  0.50 25.08    -0.391 OA
+ATOM     37  H1 A3TL A 201       1.624  14.560  31.560  1.00  0.00     0.210 HD
+ENDBRANCH   1  36
+BRANCH   1  38
+HETATM   38  C52A3TL A 201       0.341  16.744  29.783  0.50 25.46     0.171 C 
+BRANCH  38  39
+HETATM   39  C51A3TL A 201       1.081  16.616  28.464  0.50 25.56     0.120 C 
+BRANCH  39  40
+HETATM   40  C53A3TL A 201       1.572  18.036  28.199  0.50 27.60     0.066 C 
+BRANCH  40  41
+HETATM   41  C54A3TL A 201       0.949  18.691  26.995  0.50 27.75    -0.056 A 
+HETATM   42  C55A3TL A 201      -0.298  19.290  27.082  0.50 28.96     0.007 A 
+HETATM   43  C56A3TL A 201      -0.866  19.895  25.967  0.50 30.14     0.001 A 
+HETATM   44  C57A3TL A 201      -0.163  19.887  24.775  0.50 29.53     0.000 A 
+HETATM   45  C58A3TL A 201       1.098  19.296  24.698  0.50 30.00     0.001 A 
+HETATM   46  C59A3TL A 201       1.655  18.699  25.813  0.50 27.96     0.007 A 
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+BRANCH  39  47
+HETATM   47  N51A3TL A 201       0.115  16.165  27.470  0.50 25.08    -0.352 N 
+HETATM   48  C61A3TL A 201       0.346  15.322  26.465  0.50 23.99     0.241 C 
+HETATM   49  O52A3TL A 201       1.451  14.899  26.152  0.50 24.43    -0.271 OA
+ATOM     50  H51A3TL A 201      -0.834  16.530  27.553  1.00  0.00     0.163 HD
+BRANCH  48  51
+HETATM   51  C60A3TL A 201      -0.885  14.944  25.692  0.50 25.01     0.180 C 
+BRANCH  51  52
+HETATM   52  N52A3TL A 201      -1.799  14.238  26.589  0.50 25.81    -0.346 N 
+HETATM   53  C69A3TL A 201      -1.729  12.939  26.893  0.50 24.47     0.240 C 
+HETATM   54  O54A3TL A 201      -1.046  12.137  26.280  0.50 23.91    -0.271 OA
+ATOM     55  H52A3TL A 201      -2.549  14.781  27.016  1.00  0.00     0.163 HD
+BRANCH  53  56
+HETATM   56  C68A3TL A 201      -2.622  12.473  28.013  0.50 25.59     0.174 C 
+HETATM   57  C70A3TL A 201      -4.114  12.571  27.704  0.50 23.19     0.042 C 
+BRANCH  56  58
+HETATM   58  N54A3TL A 201      -2.339  13.239  29.212  0.50 25.74    -0.324 N 
+HETATM   59  C81A3TL A 201      -1.828  12.668  30.297  0.50 26.08     0.361 C 
+HETATM   60  O58A3TL A 201      -1.617  11.468  30.392  0.50 26.09    -0.238 OA
+ATOM     61  H54A3TL A 201      -2.537  14.239  29.222  1.00  0.00     0.165 HD
+BRANCH  59  62
+HETATM   62  O59A3TL A 201      -1.543  13.544  31.420  0.50 27.11    -0.299 OA
+BRANCH  62  63
+HETATM   63  CA5A3TL A 201      -1.754  13.095  32.759  0.50 27.41     0.219 C 
+BRANCH  63  64
+HETATM   64  C50A3TL A 201      -2.681  14.022  33.516  0.50 27.98    -0.034 A 
+HETATM   65  C63A3TL A 201      -3.136  15.184  32.892  0.50 26.63     0.009 A 
+HETATM   66  C64A3TL A 201      -4.004  16.047  33.563  0.50 27.63     0.001 A 
+HETATM   67  C65A3TL A 201      -4.419  15.753  34.859  0.50 27.20     0.000 A 
+HETATM   68  C66A3TL A 201      -3.968  14.586  35.478  0.50 28.19     0.001 A 
+HETATM   69  C67A3TL A 201      -3.103  13.713  34.811  0.50 27.18     0.009 A 
+ENDBRANCH  63  64
+ENDBRANCH  62  63
+ENDBRANCH  59  62
+ENDBRANCH  56  58
+ENDBRANCH  53  56
+ENDBRANCH  51  52
+BRANCH  51  70
+HETATM   70  C62A3TL A 201      -1.520  16.153  24.980  0.50 26.20     0.009 C 
+HETATM   71  CG5A3TL A 201      -0.915  16.333  23.596  0.50 24.92     0.012 C 
+HETATM   72  CG6A3TL A 201      -3.047  16.044  24.848  0.50 25.77     0.012 C 
+ENDBRANCH  51  70
+ENDBRANCH  48  51
+ENDBRANCH  39  47
+ENDBRANCH  38  39
+BRANCH  38  73
+HETATM   73  O51A3TL A 201      -0.808  15.905  29.707  0.50 24.73    -0.391 OA
+ATOM     74  H51A3TL A 201      -1.554  16.474  29.561  1.00  0.00     0.210 HD
+ENDBRANCH  38  73
+ENDBRANCH   1  38
+TORSDOF 27
+                                                                                                                                                                      
+ENDMDL

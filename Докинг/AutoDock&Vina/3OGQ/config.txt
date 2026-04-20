@@ -1,0 +1,9 @@
+receptor = 3ogq.pdbqt
+ligand = lig3ogq.pdbqt
+center_x = -0.578
+center_y = 23.227
+center_z = -0.524
+size_x = 7.5
+size_y = 12.75
+size_z = 17.25
+out = lig3ogq_out.pdbqt
