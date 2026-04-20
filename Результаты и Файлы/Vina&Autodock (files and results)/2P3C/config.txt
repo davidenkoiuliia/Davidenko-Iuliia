@@ -1,9 +1,0 @@
-receptor = 2p3c.pdbqt
-ligand = lig2p3c.pdbqt
-center_x = -2.904
-center_y = 16.891
-center_z = 35.058
-size_x = 15.75
-size_y = 13.5
-size_z = 23.25
-out = lig2p3c_out.pdbqt
