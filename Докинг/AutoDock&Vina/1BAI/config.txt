@@ -1,0 +1,9 @@
+receptor = 1bai.pdbqt
+ligand = lig1bai.pdbqt
+center_x = -2.904
+center_y = 16.891
+center_z = 35.058
+size_x = 27.0
+size_y = 10.5
+size_z = 15.0
+out = lig1bai_out.pdbqt

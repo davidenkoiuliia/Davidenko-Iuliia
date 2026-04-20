@@ -1,0 +1,9 @@
+receptor = 1fmb.pdbqt
+ligand = lig1fmb.pdbqt
+center_x = -2.904
+center_y = 16.891
+center_z = 35.058
+size_x = 15.0
+size_y = 10.5
+size_z = 13.5
+out = lig1fmb_out.pdbqt
