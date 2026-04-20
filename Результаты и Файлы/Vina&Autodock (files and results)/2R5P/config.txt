@@ -1,0 +1,9 @@
+receptor = 2r5p.pdbqt
+ligand = lig2r5p.pdbqt
+center_x = -2.904
+center_y = 16.891
+center_z = 35.058
+size_x = 10.5
+size_y = 16.5
+size_z = 11.25
+out = lig2r5p_out.pdbqt
