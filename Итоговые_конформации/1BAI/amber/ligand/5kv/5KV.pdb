@@ -1,0 +1,259 @@
+ATOM      1  C1  5KV     1       2.652  -5.470   7.366  1.00  0.00      HETA C
+ATOM      2  N1  5KV     1       3.540  -4.893   8.346  1.00  0.00      HETA N
+ATOM      3  O1  5KV     1       2.412  -3.502   5.966  1.00  0.00      HETA O
+ATOM      4  C2  5KV     1       2.662  -4.722   6.007  1.00  0.00      HETA C
+ATOM      5  N2  5KV     1      -0.271  -8.243   8.399  1.00  0.00      HETA N
+ATOM      6  O2  5KV     1       0.826  -6.623   3.581  1.00  0.00      HETA O
+ATOM      7  C3  5KV     1       1.189  -5.464   7.849  1.00  0.00      HETA C
+ATOM      8  N3  5KV     1      -2.537  -7.954   7.652  1.00  0.00      HETA N
+ATOM      9  O3  5KV     1      -1.834  -6.451  -2.058  1.00  0.00      HETA O
+ATOM     10  C4  5KV     1       0.265  -6.251   6.944  1.00  0.00      HETA C
+ATOM     11  N4  5KV     1      -2.097  -8.694   9.869  1.00  0.00      HETA N
+ATOM     12  O4  5KV     1      -3.141  -4.005  -6.194  1.00  0.00      HETA O
+ATOM     13  C5  5KV     1       0.317  -7.758   7.168  1.00  0.00      HETA C
+ATOM     14  N5  5KV     1       2.964  -5.452   4.875  1.00  0.00      HETA N
+ATOM     15  O5  5KV     1      -7.334  -4.251  -2.866  1.00  0.00      HETA O
+ATOM     16  C6  5KV     1      -1.634  -8.281   8.633  1.00  0.00      HETA C
+ATOM     17  N6  5KV     1       0.439  -4.717   2.365  1.00  0.00      HETA N
+ATOM     18  O6  5KV     1      -8.165  -5.986  -3.957  1.00  0.00      HETA O
+ATOM     19  C7  5KV     1       2.636  -4.979   3.550  1.00  0.00      HETA C
+ATOM     20  N7  5KV     1      -0.043  -4.920  -0.508  1.00  0.00      HETA N
+ATOM     21  O7  5KV     1      -4.631  -8.073  -8.031  1.00  0.00      HETA O
+ATOM     22  C8  5KV     1       1.229  -5.517   3.145  1.00  0.00      HETA C
+ATOM     23  N8  5KV     1      -2.187  -4.736  -3.538  1.00  0.00      HETA N
+ATOM     24  O8  5KV     1      -5.176  -9.482 -11.890  1.00  0.00      HETA O
+ATOM     25  C9  5KV     1       3.665  -5.425   2.486  1.00  0.00      HETA C
+ATOM     26  N9  5KV     1      -3.136  -6.277  -6.514  1.00  0.00      HETA N
+ATOM     27  C10 5KV     1       3.343  -4.796   1.145  1.00  0.00      HETA C
+ATOM     28  N10 5KV     1      -4.561  -6.699  -9.873  1.00  0.00      HETA N
+ATOM     29  C11 5KV     1       5.069  -5.045   2.908  1.00  0.00      HETA C
+ATOM     30  N11 5KV     1      -4.008  -7.675 -12.623  1.00  0.00      HETA N
+ATOM     31  C12 5KV     1      -0.847  -5.148   1.853  1.00  0.00      HETA C
+ATOM     32  C13 5KV     1      -1.113  -4.608   0.418  1.00  0.00      HETA C
+ATOM     33  C14 5KV     1      -2.035  -4.706   2.725  1.00  0.00      HETA C
+ATOM     34  C15 5KV     1      -2.135  -5.473   4.036  1.00  0.00      HETA C
+ATOM     35  C16 5KV     1      -3.193  -4.847   4.920  1.00  0.00      HETA C
+ATOM     36  C17 5KV     1      -2.439  -6.939   3.799  1.00  0.00      HETA C
+ATOM     37  C18 5KV     1      -0.327  -4.539  -1.882  1.00  0.00      HETA C
+ATOM     38  C19 5KV     1      -1.507  -5.330  -2.502  1.00  0.00      HETA C
+ATOM     39  C20 5KV     1       0.913  -4.742  -2.773  1.00  0.00      HETA C
+ATOM     40  C21 5KV     1       0.807  -4.035  -4.078  1.00  0.00      HETA C
+ATOM     41  C22 5KV     1       0.921  -4.752  -5.275  1.00  0.00      HETA C
+ATOM     42  C23 5KV     1       0.652  -2.644  -4.125  1.00  0.00      HETA C
+ATOM     43  C24 5KV     1       0.874  -4.088  -6.500  1.00  0.00      HETA C
+ATOM     44  C25 5KV     1       0.604  -1.982  -5.352  1.00  0.00      HETA C
+ATOM     45  C26 5KV     1       0.714  -2.704  -6.540  1.00  0.00      HETA C
+ATOM     46  C27 5KV     1      -3.309  -5.368  -4.189  1.00  0.00      HETA C
+ATOM     47  C28 5KV     1      -3.195  -5.156  -5.720  1.00  0.00      HETA C
+ATOM     48  C29 5KV     1      -4.667  -4.791  -3.745  1.00  0.00      HETA C
+ATOM     49  C30 5KV     1      -5.791  -5.737  -4.103  1.00  0.00      HETA C
+ATOM     50  C31 5KV     1      -7.096  -5.229  -3.581  1.00  0.00      HETA C
+ATOM     51  C32 5KV     1      -3.058  -6.202  -7.951  1.00  0.00      HETA C
+ATOM     52  C33 5KV     1      -4.162  -7.074  -8.608  1.00  0.00      HETA C
+ATOM     53  C34 5KV     1      -1.717  -6.683  -8.510  1.00  0.00      HETA C
+ATOM     54  C35 5KV     1      -5.539  -7.438 -10.636  1.00  0.00      HETA C
+ATOM     55  C36 5KV     1      -4.892  -8.277 -11.764  1.00  0.00      HETA C
+ATOM     56  C37 5KV     1      -6.627  -6.532 -11.239  1.00  0.00      HETA C
+ATOM     57  C38 5KV     1      -7.752  -7.332 -11.863  1.00  0.00      HETA C
+ATOM     58  C39 5KV     1      -7.635  -7.422 -13.372  1.00  0.00      HETA C
+ATOM     59  C40 5KV     1      -8.795  -8.180 -13.968  1.00  0.00      HETA C
+ATOM     60  H1  5KV     1      -4.156  -4.732   4.386  1.00  0.00      HETA H
+ATOM     61  H2  5KV     1      -2.977  -4.827   2.152  1.00  0.00      HETA H
+ATOM     62  H3  5KV     1       2.572  -3.878   3.524  1.00  0.00      HETA H
+ATOM     63  H4  5KV     1       5.399  -5.636   3.790  1.00  0.00      HETA H
+ATOM     64  H5  5KV     1      -2.067  -5.030   0.072  1.00  0.00      HETA H
+ATOM     65  H6  5KV     1      -3.238  -5.160  -8.302  1.00  0.00      HETA H
+ATOM     66  H7  5KV     1      -1.919  -3.616   2.932  1.00  0.00      HETA H
+ATOM     67  H8  5KV     1       1.112  -5.824  -2.929  1.00  0.00      HETA H
+ATOM     68  H9  5KV     1       0.929  -4.650  -7.420  1.00  0.00      HETA H
+ATOM     69  H10 5KV     1       0.718  -0.953  -5.622  1.00  0.00      HETA H
+ATOM     70  H11 5KV     1      -8.932  -5.505  -3.657  1.00  0.00      HETA H
+ATOM     71  H12 5KV     1      -1.535  -7.743  -8.229  1.00  0.00      HETA H
+ATOM     72  H13 5KV     1      -6.685  -7.917 -13.671  1.00  0.00      HETA H
+ATOM     73  H14 5KV     1      -1.754  -7.372   3.053  1.00  0.00      HETA H
+ATOM     74  H15 5KV     1      -3.467  -7.056   3.413  1.00  0.00      HETA H
+ATOM     75  H16 5KV     1      -0.159  -8.258   6.304  1.00  0.00      HETA H
+ATOM     76  H17 5KV     1      -3.413  -8.307 -13.114  1.00  0.00      HETA H
+ATOM     77  H18 5KV     1      -9.610  -8.323 -13.224  1.00  0.00      HETA H
+ATOM     78  H19 5KV     1       0.657  -2.196  -7.492  1.00  0.00      HETA H
+ATOM     79  H20 5KV     1       2.718  -3.885   1.222  1.00  0.00      HETA H
+ATOM     80  H21 5KV     1       2.774  -5.505   0.506  1.00  0.00      HETA H
+ATOM     81  H22 5KV     1      -8.458  -9.173 -14.334  1.00  0.00      HETA H
+ATOM     82  H23 5KV     1       2.969  -6.523   7.166  1.00  0.00      HETA H
+ATOM     83  H24 5KV     1       5.141  -3.978   3.181  1.00  0.00      HETA H
+ATOM     84  H25 5KV     1      -4.847  -3.782  -4.178  1.00  0.00      HETA H
+ATOM     85  H26 5KV     1       1.376  -8.066   7.148  1.00  0.00      HETA H
+ATOM     86  H27 5KV     1      -0.830  -6.250   1.711  1.00  0.00      HETA H
+ATOM     87  H28 5KV     1       0.841  -4.405   7.912  1.00  0.00      HETA H
+ATOM     88  H29 5KV     1      -6.196  -5.790 -11.941  1.00  0.00      HETA H
+ATOM     89  H30 5KV     1       0.459  -6.034   5.878  1.00  0.00      HETA H
+ATOM     90  H31 5KV     1      -8.717  -6.825 -11.623  1.00  0.00      HETA H
+ATOM     91  H32 5KV     1      -7.621  -6.386 -13.782  1.00  0.00      HETA H
+ATOM     92  H33 5KV     1       1.802  -4.308  -2.261  1.00  0.00      HETA H
+ATOM     93  H34 5KV     1      -2.865  -3.829   5.228  1.00  0.00      HETA H
+ATOM     94  H35 5KV     1       1.144  -5.870   8.884  1.00  0.00      HETA H
+ATOM     95  H36 5KV     1       1.025  -5.826  -5.243  1.00  0.00      HETA H
+ATOM     96  H37 5KV     1      -7.805  -8.354 -11.422  1.00  0.00      HETA H
+ATOM     97  H38 5KV     1      -0.620  -3.458  -1.882  1.00  0.00      HETA H
+ATOM     98  H39 5KV     1      -0.776  -5.896   7.131  1.00  0.00      HETA H
+ATOM     99  H40 5KV     1      -1.226  -3.503   0.477  1.00  0.00      HETA H
+ATOM    100  H41 5KV     1      -4.639  -4.659  -2.641  1.00  0.00      HETA H
+ATOM    101  H42 5KV     1       1.161  -2.327  -3.215  1.00  0.00      HETA H
+ATOM    102  H43 5KV     1      -2.358  -7.515   4.740  1.00  0.00      HETA H
+ATOM    103  H44 5KV     1      -5.609  -6.746  -3.671  1.00  0.00      HETA H
+ATOM    104  H45 5KV     1       3.645  -6.530   2.398  1.00  0.00      HETA H
+ATOM    105  H46 5KV     1      -3.296  -6.468  -4.008  1.00  0.00      HETA H
+ATOM    106  H47 5KV     1      -3.364  -5.451   5.834  1.00  0.00      HETA H
+ATOM    107  H48 5KV     1       5.794  -5.237   2.087  1.00  0.00      HETA H
+ATOM    108  H49 5KV     1      -6.060  -8.172  -9.976  1.00  0.00      HETA H
+ATOM    109  H50 5KV     1      -5.879  -5.839  -5.211  1.00  0.00      HETA H
+ATOM    110  H51 5KV     1       4.259  -4.501   0.599  1.00  0.00      HETA H
+ATOM    111  H52 5KV     1      -0.905  -6.061  -8.076  1.00  0.00      HETA H
+ATOM    112  H53 5KV     1      -3.667  -6.772 -12.380  1.00  0.00      HETA H
+ATOM    113  H54 5KV     1      -7.048  -5.947 -10.380  1.00  0.00      HETA H
+ATOM    114  H55 5KV     1      -9.219  -7.635 -14.840  1.00  0.00      HETA H
+ATOM    115  H56 5KV     1      -1.158  -5.379   4.562  1.00  0.00      HETA H
+ATOM    116  H57 5KV     1      -1.681  -6.585  -9.615  1.00  0.00      HETA H
+ATOM    117  H58 5KV     1       3.788  -3.935   8.098  1.00  0.00      HETA H
+ATOM    118  H59 5KV     1       4.460  -5.348   8.348  1.00  0.00      HETA H
+ATOM    119  H60 5KV     1       0.306  -8.395   9.201  1.00  0.00      HETA H
+ATOM    120  H61 5KV     1      -2.187  -7.582   6.802  1.00  0.00      HETA H
+ATOM    121  H62 5KV     1      -3.507  -8.045   7.850  1.00  0.00      HETA H
+ATOM    122  H63 5KV     1      -1.418  -9.038  10.510  1.00  0.00      HETA H
+ATOM    123  H64 5KV     1      -3.021  -9.074   9.916  1.00  0.00      HETA H
+ATOM    124  H65 5KV     1       3.119  -6.435   4.921  1.00  0.00      HETA H
+ATOM    125  H66 5KV     1       0.728  -3.802   2.088  1.00  0.00      HETA H
+ATOM    126  H67 5KV     1       0.757  -4.332  -0.243  1.00  0.00      HETA H
+ATOM    127  H68 5KV     1      -1.843  -3.869  -3.923  1.00  0.00      HETA H
+ATOM    128  H69 5KV     1      -3.170  -7.191  -6.119  1.00  0.00      HETA H
+ATOM    129  H70 5KV     1      -4.350  -5.764 -10.149  1.00  0.00      HETA H
+TER
+CONECT    1   82    7    2    4
+CONECT    2    1  117  118
+CONECT    3    4
+CONECT    4    3    1   14
+CONECT    5   16   13  119
+CONECT    6   22
+CONECT    7    1   94   10   87
+CONECT    8  121   16  120
+CONECT    9   38
+CONECT   10    7   13   89   98
+CONECT   11  123   16  122
+CONECT   12   47
+CONECT   13   10   75    5   85
+CONECT   14    4   19  124
+CONECT   15   50
+CONECT   16    5    8   11
+CONECT   17   31   22  125
+CONECT   18   70   50
+CONECT   19   62   14   22   25
+CONECT   20   32   37  126
+CONECT   21   52
+CONECT   22   19   17    6
+CONECT   23   46   38  127
+CONECT   24   55
+CONECT   25   19   27   29  104
+CONECT   26  128   47   51
+CONECT   27   79   25  110   80
+CONECT   28   52   54  129
+CONECT   29   63   83   25  107
+CONECT   30   55   76  112
+CONECT   31   17   86   33   32
+CONECT   32   20   64   31   99
+CONECT   33   31   61   66   34
+CONECT   34   33   36   35  115
+CONECT   35   34   60  106   93
+CONECT   36   34  102   73   74
+CONECT   37   97   20   38   39
+CONECT   38   37   23    9
+CONECT   39   37   40   67   92
+CONECT   40   42   39   41
+CONECT   41   40   43   95
+CONECT   42   40  101   44
+CONECT   43   45   41   68
+CONECT   44   69   42   45
+CONECT   45   43   44   78
+CONECT   46   23  105   48   47
+CONECT   47   12   26   46
+CONECT   48   46  100   49   84
+CONECT   49   48  103   50  109
+CONECT   50   49   15   18
+CONECT   51   65   52   26   53
+CONECT   52   28   51   21
+CONECT   53   51   71  111  116
+CONECT   54   28   56  108   55
+CONECT   55   30   24   54
+CONECT   56   54   57  113   88
+CONECT   57   56   96   90   58
+CONECT   58   59   57   72   91
+CONECT   59   58   77   81  114
+CONECT   60   35
+CONECT   61   33
+CONECT   62   19
+CONECT   63   29
+CONECT   64   32
+CONECT   65   51
+CONECT   66   33
+CONECT   67   39
+CONECT   68   43
+CONECT   69   44
+CONECT   70   18
+CONECT   71   53
+CONECT   72   58
+CONECT   73   36
+CONECT   74   36
+CONECT   75   13
+CONECT   76   30
+CONECT   77   59
+CONECT   78   45
+CONECT   79   27
+CONECT   80   27
+CONECT   81   59
+CONECT   82    1
+CONECT   83   29
+CONECT   84   48
+CONECT   85   13
+CONECT   86   31
+CONECT   87    7
+CONECT   88   56
+CONECT   89   10
+CONECT   90   57
+CONECT   91   58
+CONECT   92   39
+CONECT   93   35
+CONECT   94    7
+CONECT   95   41
+CONECT   96   57
+CONECT   97   37
+CONECT   98   10
+CONECT   99   32
+CONECT  100   48
+CONECT  101   42
+CONECT  102   36
+CONECT  103   49
+CONECT  104   25
+CONECT  105   46
+CONECT  106   35
+CONECT  107   29
+CONECT  108   54
+CONECT  109   49
+CONECT  110   27
+CONECT  111   53
+CONECT  112   30
+CONECT  113   56
+CONECT  114   59
+CONECT  115   34
+CONECT  116   53
+CONECT  117    2
+CONECT  118    2
+CONECT  119    5
+CONECT  120    8
+CONECT  121    8
+CONECT  122   11
+CONECT  123   11
+CONECT  124   14
+CONECT  125   17
+CONECT  126   20
+CONECT  127   23
+CONECT  128   26
+CONECT  129   28
