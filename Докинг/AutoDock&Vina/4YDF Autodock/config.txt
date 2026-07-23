@@ -1,0 +1,9 @@
+receptor = 4ydf.pdbqt
+ligand = lig4ydf.pdbqt
+center_x = 58.09
+center_y = 34.161
+center_z = 24.782
+size_x = 17.25
+size_y = 9.0
+size_z = 6.75
+out = lig4ydf_out.pdbqt
